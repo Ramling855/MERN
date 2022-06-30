@@ -1,2 +1,2 @@
-# MERN
+# finalMERN
 Created with CodeSandbox
